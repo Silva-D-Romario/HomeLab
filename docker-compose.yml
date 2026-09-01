@@ -130,7 +130,6 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=America/Sao_Paulo
-    # healthcheck e outros já são padrão da imagem
 
   withoutbg:
     image: withoutbg/withoutbg-openweights-v3-app-cpu:latest
@@ -140,7 +139,6 @@ services:
       - "8081:8080"
     environment:
       - TZ=America/Sao_Paulo
-    # healthcheck e configurações já são padrão da imagem
 
 volumes:
   portainer_data:
