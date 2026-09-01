@@ -1,7 +1,5 @@
 # Arquivos de configuração locais (com dados reais)
 .env
-config/*/
-!config/*/.gitkeep
 
 # Pastas de mídia (arquivos grandes)
 /Movies/
