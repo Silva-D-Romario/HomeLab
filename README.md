@@ -73,4 +73,4 @@ Para instruções aprofundadas, consulte os guias na pasta `docs/`:
 
 * [Guia de Configuração Completo](docs/setup-guide.md)
 * [Arquitetura e Fluxo de Dados](docs/architecture.md)
-* [Guia de Resolução de Problemas (Troubleshooting)](docs/troubleshooting.md)
+
