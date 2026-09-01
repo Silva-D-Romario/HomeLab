@@ -1,0 +1,28 @@
+# Arquivos de configuração locais (com dados reais)
+.env
+config/*/
+!config/*/.gitkeep
+
+# Pastas de mídia (arquivos grandes)
+/Movies/
+/Tv Shows/
+/Animes/
+/Music/
+/downloads/
+
+# Arquivos temporários e de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+*.bak
+
+# Arquivos grandes
+*.iso
+*.mkv
+*.mp4
+*.flac
+*.wav
+*.tar.gz
+*.zip
