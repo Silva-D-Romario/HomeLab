@@ -71,6 +71,6 @@ docker compose up -d
 
 Para instruções aprofundadas, consulte os guias na pasta `docs/`:
 
-* [Guia de Configuração Completo](docs/setup-guide.md)
+* [Guia de Configuração](docs/setup-guide.md)
 * [Arquitetura e Fluxo de Dados](docs/architecture.md)
 
